@@ -1,4 +1,4 @@
-# 🏆 Lawgic AI Legal Assistant
+#  Lawgic AI Legal Assistant
 
 **ChainOpera AI Hackathon Submission** - Building Decentralized AI Agents
 
@@ -9,7 +9,7 @@ A revolutionary AI Legal Assistant powered by ChainOpera's decentralized AI plat
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-3178C6?style=for-the-badge&logo=typescript)
 ![Supabase](https://img.shields.io/badge/Supabase-Backend-3ECF8E?style=for-the-badge&logo=supabase)
 
-## 🚀 Project Overview
+##  Project Overview
 
 Lawgic is a decentralized AI Legal Assistant that democratizes access to legal information by leveraging ChainOpera's blockchain-powered AI platform. Our solution provides:
 
@@ -30,7 +30,7 @@ Lawgic is a decentralized AI Legal Assistant that democratizes access to legal i
 - Real-time legal document analysis
 - Multi-modal legal research capabilities
 
-## 🏗️ Architecture & Tech Stack
+##  Architecture & Tech Stack
 
 ### Frontend
 - **React 18.3.1** with TypeScript
@@ -89,7 +89,7 @@ VITE_SUPABASE_URL=your_supabase_url
 VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
 ```
 
-## 🎨 Project Structure
+##  Project Structure
 
 ```
 src/
@@ -132,7 +132,7 @@ Robust fallback mechanism ensures users always receive responses:
 2. Secondary: Supabase Edge Function
 3. Fallback: Enhanced local responses
 
-## 🎯 Key Features Implemented
+##  Key Features Implemented
 
 ### 1. **Intelligent Chat Interface**
 - ChatGPT-like conversational experience
@@ -182,7 +182,7 @@ Robust fallback mechanism ensures users always receive responses:
 - **Clear Documentation**: Comprehensive README and code comments
 - **Demo Ready**: Fully functional application with sample interactions
 
-## 🚀 Deployment
+##  Deployment
 
 ### Build for Production
 ```bash
@@ -195,7 +195,7 @@ The application is ready for deployment on modern hosting platforms:
 - Environment variable configuration
 - Automatic HTTPS and CDN
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - **Document Upload**: PDF/Word document analysis
 - **Voice Interface**: Speech-to-text legal consultations  
@@ -204,7 +204,7 @@ The application is ready for deployment on modern hosting platforms:
 - **Lawyer Network**: Connect with human lawyers when needed
 - **Blockchain Records**: Immutable consultation history
 
-## 🤝 Contributing
+##  Contributing
 
 This project was built for the ChainOpera AI Hackathon. For questions or collaboration:
 
@@ -216,7 +216,7 @@ This project was built for the ChainOpera AI Hackathon. For questions or collabo
 
 Lawgic provides general legal information only and is not a substitute for professional legal advice. Users should consult with qualified legal professionals for specific legal matters.
 
-## 🏅 Hackathon Submission
+##  Hackathon Submission
 
 **Event**: ChainOpera AI Hackathon - Building Decentralized AI Agents  
 **Prize Pool**: $10,000  
