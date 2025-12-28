@@ -223,8 +223,7 @@ Lawgic provides general legal information only and is not a substitute for profe
 **Category**: Useful AI Agents  
 **Submission Date**: 2025  
 
-**Built with ❤️ for the future of decentralized AI and accessible legal services.**
+**Built with  for the future of decentralized AI and accessible legal services.**
 
 ---
 
-*Powered by ChainOpera's Decentralized AI Platform*
